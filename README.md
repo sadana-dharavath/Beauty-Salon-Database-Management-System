@@ -1,7 +1,5 @@
 # Beauty-Salon-Database-Management-System
 
-# Beauty Salon Database Management System
-
 This project is a relational database management system (RDBMS) designed for a multi-branch beauty salon chain. It supports a wide range of functionalities including service management, product sales, customer memberships, discount tracking, and appointment scheduling.
 
 ## Objective
